@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333976026007",
+    "firebase_url": "https://dxomark-4368d.firebaseio.com",
+    "project_id": "dxomark-4368d",
+    "storage_bucket": "dxomark-4368d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333976026007:android:2f35ccd2c9ef575a",
+        "android_client_info": {
+          "package_name": "picodiploma.dicoding.dxomark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333976026007-kjumgeasp2kgf83ec67lpjtkcp27aa89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "picodiploma.dicoding.dxomark",
+            "certificate_hash": "72a7b827e1134e869a04eb055a1aab1979c26c7e"
+          }
+        },
+        {
+          "client_id": "333976026007-5qmipgo7aogtaqldeaho9kkgidqpf8h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQaZ8rWZA0grTJg7xXk6urBIAA-ohH6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333976026007-5qmipgo7aogtaqldeaho9kkgidqpf8h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
